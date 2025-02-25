@@ -79,7 +79,7 @@ Here are some of my highlighted projects:
 Here are some of my highlighted publications:  
 
 🔹 **[1: Flutter zero to hero](https://amzn.in/d/fUj2Ulv)**  
-*"Flutter Zero to Hero - 2023" is a comprehensive book that teaches beginners and experienced programmers the fundamentals of Dart programming and Flutter framework. The book is written by Subhash Chandra Shukla and is divided into several sections that cover a wide range of topics and concepts.*  
+*"Flutter Zero to Hero - 2023" is a comprehensive book that teaches beginners and experienced programmers the fundamentals of Dart programming and Flutter framework.*  
 
 🔹 **[2: Dart in Action](https://amzn.in/d/fKWKtOa)**  
 *Dart in Action: Learn, Code, and Create" is a definitive guide to programming with the Dart programming language.*  
