@@ -47,7 +47,7 @@
 
 - **Backend & APIs:**  
   - Firebase (Firestore, Authentication, Realtime Database, Storage)
-  - Java Spring Boot
+  - Python FastAPI
   - GraphQL
   - Rest API
 
