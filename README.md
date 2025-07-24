@@ -11,7 +11,7 @@
 
 ### Tech Stack
 - **Mobile:** Flutter, Flutter Web, Dart, Android, iOS, Swift  
-- **Backend:** Java, Spring Boot  
+- **Backend:** Python, FastAPI  
 - **Database:** MySQL, Firebase, SQLite, Hive
 - **AI** Python, Tensor Flow, SciPy, NumPy, Gen AI
 - **Version Control:** Git, GitHub  
